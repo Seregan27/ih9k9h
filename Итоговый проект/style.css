@@ -1,25 +1,25 @@
 body{
-    width: 100%;
-    height: auto;
-    font: 12px bold 'Lobster', sans-serif;
-    display: flex;
-    flex-direction: wrap;
+  width: 100%;
+  height: auto;
+  font: 12px bold 'Lobster', sans-serif;
+  display: flex;
+  flex-direction: wrap;
 }
 
 
 @keyframes change{
 from{
-  background-color: aqua;
+background-color: aqua;
 }
 50%{background-color: blue;
-     
+   
 }
 
 }
 to{
-  background-color:red:
+background-color:red:
 
 }
 .button1{
-  cursor: url(youtube.png)2,2 default;
+cursor: url(youtube.png)2,2 default;
 }
